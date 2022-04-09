@@ -9,7 +9,7 @@
     "axios": "^0.19.0",
     "eventemitter4": "^0.2.4",
     "idx": "^2.5.5",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "prop-types": "^15.7.2",
     "react": "16.8.3",
     "react-mixin": "^5.0.0",
